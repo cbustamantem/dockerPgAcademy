@@ -1,1 +1,1 @@
-docker image rm test_postgres
+docker image rm oraclegbpy/test_postgres
