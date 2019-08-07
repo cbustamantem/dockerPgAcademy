@@ -1,1 +1,1 @@
-docker build -t oraclegbpy/test_postgres .
+docker build -t oraclegbpy/dbacademy .
